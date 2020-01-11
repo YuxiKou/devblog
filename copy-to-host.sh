@@ -1,0 +1,1 @@
+scp docker-compose.yml nginx.tmpl yuxikou@www.yuxikou.com:~/yuxikou.com
